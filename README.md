@@ -15,7 +15,8 @@
   * [License](#license)
   * [Test](#test)
   * [Questions](#questions)
-  
+  * [Walkthrough](#walkthrough)
+
   ## Installation
   ---
   Clone repository from GitHub, then install all dependencies.
@@ -26,7 +27,7 @@
   
   ## Contribution
   ---
-  Anyone can contribute
+  Anyone can contribute.
   
   ## License
   ---
@@ -41,4 +42,6 @@
   ---
   My other work can be found at <a href="https://github.com/sean-elliott-97" title="github profile" target = "blank">sean-elliott-97</a>. If you have any additional questions, you can email me at [sean.elliott.33197@gmail.com](mailto:sean.elliott.33197@gmail.com).
   
-  
+    ## Walkthrough
+  ---
+  <a href = "https://watch.screencastify.com/v/86845fbp2nUKQ75Fj7HL" target = "blank">https://watch.screencastify.com/v/86845fbp2nUKQ75Fj7HL</a>.
