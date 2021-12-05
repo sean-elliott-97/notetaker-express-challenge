@@ -42,6 +42,6 @@
   ---
   My other work can be found at <a href="https://github.com/sean-elliott-97" title="github profile" target = "blank">sean-elliott-97</a>. If you have any additional questions, you can email me at [sean.elliott.33197@gmail.com](mailto:sean.elliott.33197@gmail.com).
   
-    ## Walkthrough
+  ## Walkthrough
   ---
   <a href = "https://watch.screencastify.com/v/86845fbp2nUKQ75Fj7HL" target = "blank">https://watch.screencastify.com/v/86845fbp2nUKQ75Fj7HL</a>.
